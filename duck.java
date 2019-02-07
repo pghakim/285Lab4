@@ -5,7 +5,8 @@ Public class duck {
   }  /* * Tom branch is responsible for swim() method. */
   public swim() {
     system.out.println("A duck can swim");
-    /* * Bob branch is responsible for eat() method. */
-    public eat(){system.out.println("A duck can eat");
+    /* * Bob    branch is responsible for eat() method. */
+    public eat(){
+      system.out.println("A duck can eat");
   }
 }
